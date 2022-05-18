@@ -76,11 +76,18 @@ body {
     height: 6rem;
 }
 
+.imagem-sedutor-internet{
+    display: flex;
+    width: 100%;
+    margin-top: 1%;
+}
+
 .instagram-login {
     background-color: #0095f6;
     color: #ffffff;
     padding: 8px;
     border-radius: 4px;
+    margin-top: 3%;
 }
 
 .instagram-logout {
@@ -90,6 +97,7 @@ body {
 
 .not-account {
     color: rgb(160, 160, 160);
+    margin: 1%;
 }
 
 .link-blue {
@@ -143,6 +151,10 @@ body {
 
     .instagram-wrapper {
         width: 90%;
+    }
+
+    .imagem-sedutor-internet {
+        width: 70%;
     }
 
     .instagram-phone {
